@@ -1,1 +1,1 @@
-print("todays session")
+today is tuseday
